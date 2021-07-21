@@ -16,4 +16,4 @@ Stack -->
 ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
-[![zinozino1's github stats](https://github-readme-stats.vercel.app/api?username=zinozino1)](https://github.com/zinozino1/github-readme-stats)
+[![zinozino1's github stats](https://github-readme-stats.vercel.app/api?username=zinozino1&show_icons=true&theme=radical)](https://github.com/zinozino1/github-readme-stats)
